@@ -1,2 +1,2 @@
 # CIFAR10_Keras
-Keras implementation of CNN for objection recognition on CIFAR10
+Keras implementation of CNN for object recognition on CIFAR10
